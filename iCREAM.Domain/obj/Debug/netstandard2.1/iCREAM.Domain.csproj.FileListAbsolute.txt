@@ -1,0 +1,10 @@
+C:\code\iCREAM\iCREAM.Domain\bin\Debug\netstandard2.1\iCREAM.Domain.deps.json
+C:\code\iCREAM\iCREAM.Domain\bin\Debug\netstandard2.1\iCREAM.Domain.dll
+C:\code\iCREAM\iCREAM.Domain\bin\Debug\netstandard2.1\iCREAM.Domain.pdb
+C:\code\iCREAM\iCREAM.Domain\obj\Debug\netstandard2.1\iCREAM.Domain.csproj.AssemblyReference.cache
+C:\code\iCREAM\iCREAM.Domain\obj\Debug\netstandard2.1\iCREAM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\iCREAM\iCREAM.Domain\obj\Debug\netstandard2.1\iCREAM.Domain.AssemblyInfoInputs.cache
+C:\code\iCREAM\iCREAM.Domain\obj\Debug\netstandard2.1\iCREAM.Domain.AssemblyInfo.cs
+C:\code\iCREAM\iCREAM.Domain\obj\Debug\netstandard2.1\iCREAM.Domain.csproj.CoreCompileInputs.cache
+C:\code\iCREAM\iCREAM.Domain\obj\Debug\netstandard2.1\iCREAM.Domain.dll
+C:\code\iCREAM\iCREAM.Domain\obj\Debug\netstandard2.1\iCREAM.Domain.pdb

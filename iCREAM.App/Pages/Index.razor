@@ -1,0 +1,15 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+@if (Page?.CarouselItems != null)
+{
+    <Carousel CarouselItems="Page?.CarouselItems"></Carousel>
+}
+<AboutComponent></AboutComponent>
+<Promotion></Promotion>
+<VideoModal></VideoModal>
+<Services></Services>
+<Portfolio></Portfolio>
+<Products></Products>
+<Team></Team>
+<Testimonial></Testimonial>

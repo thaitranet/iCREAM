@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQgTTmSV+2MVt3JmCuncssKp5aHt2Tp8ECC0PAxbRacWh7cf7MMKyo2/1xY6QsXkvk8ABYYdQKtxq+lTsS1cqg==",
+  "success": true,
+  "projectFilePath": "C:\\code\\iCREAM\\iCREAM.Domain\\iCREAM.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thai.tran\\.nuget\\packages\\contentful.csharp\\7.0.2\\contentful.csharp.7.0.2.nupkg.sha512",
+    "C:\\Users\\thai.tran\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\thai.tran\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
